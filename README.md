@@ -29,3 +29,7 @@ Ejemplo de uso de encoder rotativo con (o sin) pulsador.
     Por tanto la opcion de interrupcion es la que debemos usar. 
     Queden el resto de opciones como ejemplo que pueden ser utilizadas en programas muy sencillos 
     sin apenas codigo que retrase la ejecucion de loop().
+
+**DIAGRAMA DE CONEXION
+
+![](./images/encoder_wiring.png)
